@@ -1,6 +1,7 @@
 {
   "name": "tp-angular-framework",
   "version": "0.0.0",
+  "author": "Mohamed Reda Elansari",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
