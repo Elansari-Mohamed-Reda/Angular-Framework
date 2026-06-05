@@ -1,6 +1,8 @@
 # TPAngularFramework
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 21.2.8.
+
+Created by Mohamed Reda Elansari
 
 ## Development server
 
